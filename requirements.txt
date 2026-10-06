@@ -1,0 +1,71 @@
+# ==============================
+# Streamlit UI
+# ==============================
+streamlit
+
+# ==============================
+# Audio / YouTube
+# ==============================
+yt-dlp
+pydub
+ffmpeg-python
+
+# ==============================
+# Local Whisper transcription
+# ==============================
+openai-whisper
+faster-whisper
+
+# ==============================
+# Translation
+# ==============================
+deep-translator
+
+# ==============================
+# LangChain / LCEL
+# ==============================
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# ==============================
+# Groq LLM
+# ==============================
+langchain-groq
+groq
+
+# ==============================
+# RAG / Vector Database
+# ==============================
+langchain_chroma
+chromadb
+
+# ==============================
+# Hugging Face Embeddings
+# ==============================
+langchain-huggingface
+sentence-transformers
+transformers
+huggingface-hub
+
+# ==============================
+# PDF / Document Processing
+# ==============================
+pypdf
+reportlab
+
+# ==============================
+# Environment Variables
+# ==============================
+python-dotenv
+
+# ==============================
+# Utilities
+# ==============================
+requests
+numpy
+tqdm
+
+torch 
+torchvision
