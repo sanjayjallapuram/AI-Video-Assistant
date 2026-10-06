@@ -53,7 +53,7 @@ Transcript
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-video-assistant.git
+git clone https://github.com/sanjayjallapuram/AI-Video-Assistant.git
 cd AI-video-assistant
 ```
 
